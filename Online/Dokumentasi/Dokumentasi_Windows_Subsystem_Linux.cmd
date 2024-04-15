@@ -1,2 +1,2 @@
-@title Dokumentasi Windows Subsystem Linux ^(WSL^) ^(online^)
-@start "Dokumentasi Windows Subsystem Linux (WSL)" /MAX https://learn.microsoft.com/en-us/windows/wsl/
+@title https://learn.microsoft.com/en-us/windows/wsl/
+@start "Dokumentasi Windows Subsystem Linux (WSL) (online)" /MAX https://learn.microsoft.com/en-us/windows/wsl/

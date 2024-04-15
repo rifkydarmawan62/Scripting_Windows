@@ -1,2 +1,2 @@
-@title Dokumentasi Golang ^(online^)
-@start "Dokumentasi Golang" /MAX https://go.dev/doc/
+@title https://go.dev/doc/
+@start "Dokumentasi Golang (online)" /MAX https://go.dev/doc/

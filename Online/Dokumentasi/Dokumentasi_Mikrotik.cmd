@@ -1,2 +1,2 @@
-@title Dokumentasi Mikrotik ^(online^)
-@start "Dokumentasi Mikrotik" /MAX https://help.mikrotik.com/docs/
+@title https://help.mikrotik.com/docs/
+@start "Dokumentasi Mikrotik (online)" /MAX https://help.mikrotik.com/docs/

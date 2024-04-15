@@ -1,0 +1,2 @@
+@title https://support.zte.com.cn/support/upload/files/202011/ZTE%%20Technical%%20Support%%20Website%%20User%%20Manual^(V5.0^).pdf
+@start "ZTE Technical Support Website User Manual (online)" /MAX https://support.zte.com.cn/support/upload/files/202011/ZTE%%20Technical%%20Support%%20Website%%20User%%20Manual^(V5.0^).pdf

@@ -1,0 +1,2 @@
+@title https://developer.android.com/tools?hl=id^&_gl=1*a4iwj7*_up*MQ..^&gclid=CjwKCAjwoPOwBhAeEiwAJuXRh65smB4W2Sy6kAFcVQ8Y9QE5_YuxAGX32NLr61Xg_IHfxKVyXCyqpxoCPMAQAvD_BwE^&gclsrc=aw.ds
+@start "https://developer.android.com/tools?hl=id&_gl=1*a4iwj7*_up*MQ..&gclid=CjwKCAjwoPOwBhAeEiwAJuXRh65smB4W2Sy6kAFcVQ8Y9QE5_YuxAGX32NLr61Xg_IHfxKVyXCyqpxoCPMAQAvD_BwE&gclsrc=aw.ds" /MAX https://developer.android.com/tools?hl=id^&_gl=1*a4iwj7*_up*MQ..^&gclid=CjwKCAjwoPOwBhAeEiwAJuXRh65smB4W2Sy6kAFcVQ8Y9QE5_YuxAGX32NLr61Xg_IHfxKVyXCyqpxoCPMAQAvD_BwE^&gclsrc=aw.ds

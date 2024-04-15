@@ -1,2 +1,2 @@
 @title https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/master/docs/user/adb.1.md
-@start "https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/master/docs/user/adb.1.md" /MAX https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/master/docs/user/adb.1.md
+@start "Android Debug Bridge (ADB)" /MAX https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/master/docs/user/adb.1.md

@@ -1,2 +1,2 @@
-@title Dokumentasi Windows Command Prompt ^(online^)
-@start "Dokumentasi Windows Command Prompt" /MAX https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
+@title https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
+@start "Dokumentasi Windows Command Prompt (online)" /MAX https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
