@@ -1,0 +1,2 @@
+@title https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4
+@start "Windows PowerShell 7.4 Overview" /MAX https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.4
