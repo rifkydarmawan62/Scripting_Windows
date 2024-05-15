@@ -1,2 +1,0 @@
-@title https://www.gnu.org/software/bash/manual/html_node/index.html
-@start "https://www.gnu.org/software/bash/manual/html_node/index.html" /MAX https://www.gnu.org/software/bash/manual/html_node/index.html

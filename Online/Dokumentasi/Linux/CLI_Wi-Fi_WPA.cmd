@@ -1,2 +1,0 @@
-@title Dokumentasi Linux Command Line Interface ^(CLI^) Wi-Fi WPA/WPA2 ^(online^)
-@start "Dokumentasi Linux CLI Wi-Fi WPA/WPA2 (online)" https://linuxcommando.blogspot.com/2013/10/how-to-connect-to-wpawpa2-wifi-network.html?m=1
